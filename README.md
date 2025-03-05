@@ -1,1 +1,1 @@
-# Vanills and page
+# Vanilla and page
