@@ -4,6 +4,10 @@
 
 典型的な,htmlとcss,JavaScriptを書く.
 
+一つのディレクトリに6つまで.
+githubのpin止めが6だし.
+
+
 ## memo
 
 - [cssの読み込み mdn](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
