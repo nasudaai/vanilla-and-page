@@ -7,6 +7,9 @@
 一つのディレクトリに6つまで.
 githubのpin止めが6だし.
 
+## links
+
+- [esbuild livereload](https://esbuild.github.io/api/#live-reload)
 
 ## memo
 
