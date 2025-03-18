@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "esbuild src/main.js --outdir=./ --watch --servedir=./"
+  },
   "devDependencies": {
     "esbuild": "^0.25.1"
   }
