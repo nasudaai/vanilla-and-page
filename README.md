@@ -15,8 +15,22 @@ githubのpin止めが6だし.
 
 ## memo
 
-- [cssの読み込み mdn](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
+- [cssの読み込みmdn](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
 
 `<link rel="stylesheet" href="styles.css" />
 `
+- [html](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
+```
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html>
+
+```
