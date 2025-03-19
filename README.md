@@ -19,7 +19,7 @@ githubのpin止めが6だし.
 
 `<link rel="stylesheet" href="styles.css" />
 `
-- [html](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+- [html basic](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
 ```
 <!doctype html>
