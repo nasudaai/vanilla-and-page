@@ -34,3 +34,11 @@ githubのpin止めが6だし.
 </html>
 
 ```
+
+## JavaScript
+
+- [change css js](https://developer.mozilla.org/ja/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+
+例
+`const elm = document.querySelector("h1")
+elm.style.color = "blue"`
