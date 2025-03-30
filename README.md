@@ -35,6 +35,9 @@ githubのpin止めが6だし.
 
 ```
 
+- build
+  esbuildのlivereloadのためのコードを消す
+  `sed 1d src/dev.js > ./dist/index.js`
 ## JavaScript
 
 - [change css js](https://developer.mozilla.org/ja/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
