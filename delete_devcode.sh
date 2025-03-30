@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sed 1d src/dev.js > index.js
+sed 1d src/dev.js > ./dist/index.js
