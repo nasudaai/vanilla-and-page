@@ -6,4 +6,6 @@ const appTest = () => console.log(app)
 const appH1 = document.createElement("h1")
 appH1.textContent = "app"
 
-export {app, appTest, appH1}
+const para = document.createElement("p")
+para.textContent = "parapara"
+export {app, appTest, appH1, para}
