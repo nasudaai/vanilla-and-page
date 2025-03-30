@@ -1,6 +1,6 @@
 new EventSource('/esbuild').addEventListener('change', () => location.reload())
 
-import {app, appTest} from "./main.js"
+import {app, appTest, appH1} from "./main.js"
 
 console.log("test!")
 
@@ -14,3 +14,4 @@ const a = "aa"
 console.log(a)
 
 appTest()
+console.log(appH1)
