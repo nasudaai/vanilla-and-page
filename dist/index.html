@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="./styles.css"/>
+    <title>page</title>
+  </head>
+  <body>
+    <h1>Page</h1>
+    <p>para</p>
+    <h2>h2</h2>
+    <div id="app"></div>
+    <button id="btn">button</button>
+    <label for="txt"></label>
+    <input id="txt"/>
+
+    <div class="check">
+      <label for="ume">Do you like ume</label>
+      <input type="checkbox" name="ume" id="ume" />
+    </div>
+
+    <div class="check">
+      <label for="mekabu">Do you like mekabu</label>
+      <input type="checkbox" name="mekabu" id="mekabu" />
+    </div>
+    <p id="msg"></p>
+<!--    <script>new EventSource('/esbuild').addEventListener('change', () => location.reload())</script> -->
+    <script type="module" src="./src/index.js"></script>
+  </body>
+</html>
