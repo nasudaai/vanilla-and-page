@@ -9,6 +9,15 @@
 githubのpin止めが6だし.
 
 - 使うpageのlinkを都度貼りましょか.
+
+## next steps
+
+- `textarea`を足す.
+- `alerm()`を消す`button`を足す.
+
+## big issues
+  - markdown change!
+
 ## links
 
 - [esbuild livereload](https://esbuild.github.io/api/#live-reload)
