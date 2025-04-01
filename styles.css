@@ -1,3 +1,16 @@
 h2 {
   color: blue;
 }
+
+button {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5rem;
+}
+
+.check {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin: 0.5rem;
+}
