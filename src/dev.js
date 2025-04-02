@@ -3,7 +3,7 @@ new EventSource('/esbuild').addEventListener('change', () => location.reload())
 import {app, appTest, appH1, para, btn, btn2} from "./main.js"
 import {app2}  from "./app.js"
 import {getJson} from "./getJson.js"
-import {txtArea} from "./textarea.js"
+import {txtArea, cNum} from "./textarea.js"
 
 
 alert("test-a")
@@ -23,3 +23,6 @@ console.log(btn)
 
 getJson()
 console.log(txtArea)
+
+
+cNum()
