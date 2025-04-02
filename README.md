@@ -21,6 +21,8 @@ githubのpin止めが6だし.
 ## links
 
 - [esbuild livereload](https://esbuild.github.io/api/#live-reload)
+- [textarea mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea)
+- [input mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/input)
 
 ## memo
 
