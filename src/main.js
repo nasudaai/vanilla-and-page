@@ -18,3 +18,21 @@ btn2.textContent = "Button2"
 btn2.addEventListener("click", () => console.log("btn2 ok"))
 export {app, appTest, appH1, para, btn, btn2}
 
+// Date
+console.log(Date.now())
+
+const now = new Date()
+console.log(now.toISOString())
+
+  //ima nanji?
+function wNow() {
+  alert(now.toISOString())
+}
+
+const nBtn = document.getElementById("nBtn")
+nBtn.addEventListener("click", () => {
+  wNow()
+})
+
+//Math.random
+console.log(Math.random())
