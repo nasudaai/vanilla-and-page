@@ -25,7 +25,7 @@ githubのpin止めが6だし.
 - [input mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/input)
 
 ## memo
-
+- markdownのnestはspace or tab で表現する.
 - [cssの読み込みmdn](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
 
 `<link rel="stylesheet" href="styles.css" />
@@ -59,3 +59,10 @@ githubのpin止めが6だし.
 例
 `const elm = document.querySelector("h1")
 elm.style.color = "blue"`
+
+
+- Date
+  - `Date.now()`
+  
+- Math
+  - `Math.random()`
