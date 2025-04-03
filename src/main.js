@@ -36,3 +36,9 @@ nBtn.addEventListener("click", () => {
 
 //Math.random
 console.log(Math.random())
+
+
+//setTimeout
+setTimeout(() => {
+  alert("5秒経ったよ")
+}, 5000)
