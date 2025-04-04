@@ -1,3 +1,5 @@
+import {focusBtn} from "./addEvent.js"
+
 const app = document.getElementById("app")
 
 const appTest = () => console.log(app)
@@ -42,3 +44,9 @@ console.log(Math.random())
 setTimeout(() => {
   alert("5秒経ったよ")
 }, 5000)
+
+
+//addbtn add eventListener
+const body = document.querySelector("body")
+//console.log(body)
+body.appendChild(focusBtn)
