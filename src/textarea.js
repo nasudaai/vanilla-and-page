@@ -10,4 +10,13 @@ const cNum = () => {textarea.addEventListener('change', (e) => {
 })}
 
 const length = cNum()
-export {txtArea, cNum, length}
+const logLen = document.getElementById("log")
+
+console.log(logLen)
+txtArea.addEventListener("change", (e) => {
+
+ const length = e.target.value 
+ logLen.textContent = length
+
+})
+export {txtArea, cNum, length, logLen}

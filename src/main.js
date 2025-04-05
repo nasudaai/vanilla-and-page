@@ -1,5 +1,5 @@
 import {focusBtn} from "./addEvent.js"
-import {length} from './textarea.js'
+import {length, logLen} from './textarea.js'
 
 const app = document.getElementById("app")
 
@@ -52,5 +52,8 @@ const body = document.querySelector("body")
 //console.log(body)
 body.appendChild(focusBtn)
 
+logLen.textContent = "0"
 const len = length
+
 console.log(len)
+console.log(logLen)
