@@ -6,6 +6,8 @@ const cNum = () => {textarea.addEventListener('change', (e) => {
   const replaceLog = log.replace(/\n/g, '')
   const len = replaceLog.length
   console.log(log ,len)
+  return len
 })}
 
-export {txtArea, cNum}
+const length = cNum()
+export {txtArea, cNum, length}
