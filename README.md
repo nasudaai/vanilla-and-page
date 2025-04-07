@@ -23,6 +23,8 @@ githubのpin止めが6だし.
 - [esbuild livereload](https://esbuild.github.io/api/#live-reload)
 - [textarea mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea)
 - [input mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/input)
+- [css idselector](https://developer.mozilla.org/ja/docs/Web/CSS/ID_selectors)
+- [css border style](https://developer.mozilla.org/ja/docs/Web/CSS/border-style)
 
 ## memo
 - markdownのnestはspace or tab で表現する.
