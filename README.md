@@ -54,6 +54,12 @@ githubのpin止めが6だし.
 
 - [label css mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/label)
 
+- objectのkeyに"-"は使わないほうが良いらしい。dot記法でプロパティを取得できない。
+  ```
+  const prop = obj["prop"]
+  ```
+  取得するなら上記のように。だが基本的に"-"を使わないように。
+
 ## JavaScript
 
 - [change css js](https://developer.mozilla.org/ja/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
