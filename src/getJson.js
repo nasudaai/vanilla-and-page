@@ -5,4 +5,12 @@ async function getJson() {
   msgElm.innerHTML = data.msg
 }
 
-export {getJson}
+const getArr = async () => {
+  const res = await fetch("../hello.json")
+  const data = await res.json()
+  console.log(data["word-arr"])
+
+  console.log(data.word_arr)
+}
+
+export {getJson, getArr}

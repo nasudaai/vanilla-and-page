@@ -1,3 +1,5 @@
 {
-  "msg": "Hello"
+  "msg": "Hello",
+  "word-arr": ["a", "b", "c", "d", "e", "f", "g"],
+  "word_arr": ["A", "B", "C", "D", "E"]
 }

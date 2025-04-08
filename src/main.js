@@ -1,5 +1,6 @@
 import {focusBtn} from "./addEvent.js"
 import {length, logLen} from './textarea.js'
+import { getArr } from './getJson.js'
 
 const app = document.getElementById("app")
 
@@ -57,3 +58,6 @@ const len = length
 
 console.log(len)
 console.log(logLen)
+
+//
+getArr()
