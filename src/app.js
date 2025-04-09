@@ -1,6 +1,15 @@
-new EventSource('/esbuild').addEventListener('change', () => location.reload())
+//new EventSource('/esbuild').addEventListener('change', () => location.reload())
 console.log("App!!")
 
-const app2 = "aApp"
+const appFunc = () => {
+  console.log("app.js")
+}
 
-export {app2}
+
+const app = document.getElementById("app")
+const header = document.createElement("h1")
+header.textContent = "App header"
+app.appendChild(header)
+
+
+export { appFunc, app}
