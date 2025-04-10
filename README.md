@@ -25,7 +25,8 @@ githubのpin止めが6だし.
 - [input mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/input)
 - [css idselector](https://developer.mozilla.org/ja/docs/Web/CSS/ID_selectors)
 - [css border style](https://developer.mozilla.org/ja/docs/Web/CSS/border-style)
-
+  
+- [\<a> tag](https://developer.mozilla.org/ja/docs/Web/HTML/Element/a) 
 ## memo
 - markdownのnestはspace or tab で表現する.
 - [cssの読み込みmdn](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
