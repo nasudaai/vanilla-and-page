@@ -61,6 +61,9 @@ githubのpin止めが6だし.
   ```
   取得するなら上記のように。だが基本的に"-"を使わないように。
 
+- [structuring_document.html](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
+
+  新しい[page](https://nasudaai.github.io/vanilla-and-page/structuring_document.html)を追加
 ## JavaScript
 
 - [change css js](https://developer.mozilla.org/ja/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
